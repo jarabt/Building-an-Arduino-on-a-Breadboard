@@ -1,9 +1,12 @@
 # Building-an-Arduino-on-a-Breadboard
 
-Basic Parts for wiring up Arduino (5V) 
+Basic Parts for wiring up Arduino (5V):
 
-    Breadboard (around 800 points which is double size of the one from Arduino Starter Kit) http://www.ezk.cz/nepajiva_kontaktni_pole.htm
-    22 AWG wire (American wire gauge (AWG), standardized wire gauge system for the diameters of round, solid, nonferrous, electrically conducting wire (from the Arduino Starter Kit hope will be OK)). This one should be with diameter 0.644 mm.
+	1pc 	Breadboard (around 800 points which is double size of the one from Arduino Starter Kit) 
+				http://www.ezk.cz/nepajiva_kontaktni_pole.htm
+    xpcs 	22 AWG wire (American wire gauge (AWG), standardized wire gauge system for the diameters of round, solid, nonferrous,
+			electrically conducting wire (from the Arduino Starter Kit hope will be OK)). This one should be with diameter 0.644
+			mm.
     7805 Voltage regulator. A mechanism to provide a consistent 5V Supply. http://www.ezk.cz/stabilizatory_reference.htm
     2 LEDs (from Arduino Starter Kit) 
     2 220 Ohm resistors (from Arduino Starter Kit) 
