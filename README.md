@@ -3,7 +3,7 @@
 Basic Parts for wiring up Arduino (5V):
   
   	1pc 	Breadboard
-		Around 800 points which is double size of the one from Arduino Starter Kit)   
+		Around 800 points which is double size of the one from Arduino Starter Kit  
         	http://www.ezk.cz/nepajiva_kontaktni_pole.htm
   	xpcs 	22 AWG wire
 		American wire gauge (AWG), standardized wire gauge system for the diameters of round,
