@@ -18,8 +18,8 @@ Basic Parts for wiring up Arduino (5V):
 		Arduino Starter Kit
 	1pc	10k Ohm resistor
 		Arduino Starter Kit
-	2pc	10 uF capacitors
-		http://www.ezk.cz/kondenzatory_elektrolyticke_radialni_elrs.htm  (not from ASK - there are only 100 uF)
+	2pc	10 uF capacitors (not from ASK - there are only 100 uF)
+		http://www.ezk.cz/kondenzatory_elektrolyticke_radialni_elrs.htm
 	1pc	16 MHz clock crystal
 		http://www.ezk.cz/krystaly.htm
 	2pcs	22 pF capacitors
