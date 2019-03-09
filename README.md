@@ -4,8 +4,8 @@ Basic Parts for wiring up Arduino (5V):
   
   	1pc 	Breadboard (around 800 points which is double size of the one from Arduino Starter Kit)   
         	http://www.ezk.cz/nepajiva_kontaktni_pole.htm
-  	xpcs 	22 AWG wire (American wire gauge (AWG), standardized wire gauge system for the diameters of round,  
-    		solid, nonferrous, electrically conducting wire (from the Arduino Starter Kit hope will be OK)).  
+  	xpcs 	22 AWG wire (American wire gauge (AWG), standardized wire gauge system for the diameters of round,
+		solid, nonferrous, electrically conducting wire (from the Arduino Starter Kit hope will be OK)).  
         	This one should be with diameter 0.644mm.
 		
     7805 Voltage regulator. A mechanism to provide a consistent 5V Supply. http://www.ezk.cz/stabilizatory_reference.htm
